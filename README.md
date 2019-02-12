@@ -35,3 +35,6 @@ The main part of this schematic is the DC offset circuit. This is vital because 
 * LED FastLED : https://github.com/FastLED/FastLED/wiki/Basic-usage
 
 Make sure you install both of these libraries. I also have commented the source code so you can learn more about how the main code works and get an idea on how you can make one for yourself.
+
+This project was based on the Spectrum Analyzer project created by FischiMc in an Instructbles article you can read [here](https://www.instructables.com/id/Arduino-Spectrum-Analyzer-on-a-10x10-RGB-LED-Matri/). 
+I made some modifications to the design and the code to make the device more efficient and suit my needs better.
